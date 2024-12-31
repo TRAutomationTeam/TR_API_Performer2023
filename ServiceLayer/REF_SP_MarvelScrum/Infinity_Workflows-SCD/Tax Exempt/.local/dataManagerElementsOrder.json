@@ -1,0 +1,117 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tax_Exempt.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Credentials&Flowchart_1",
+        "sel_TEIWizard&Flowchart_1",
+        "ReportID&Flowchart_1",
+        "SuiteID&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Validate Tax Exempt Wizard.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_TEI_DataTable&Sequence_26",
+        "ui_TEIMessageValidation&Sequence_1",
+        "ui_SelectFilterButton&Sequence_1",
+        "ui_SelectAllChechbox&Sequence_1",
+        "ui_FinishLaterButton&Sequence_1",
+        "ui_ExportToExcelButton&Sequence_1",
+        "ui_NextButton&Sequence_1",
+        "ui_CancelButton&Sequence_1",
+        "ui_Hyperlink1&Sequence_1",
+        "ui_Hyperlink2&Sequence_1",
+        "ui_ResidentState&Sequence_1",
+        "TestID&Sequence_1",
+        "dt_ExtractDataTableTEI&Sequence_22",
+        "cnt&Sequence_22",
+        "ui_AllCheckBoxes&Sequence_22",
+        "strBrokerName&Sequence_23",
+        "strAccountNumber&Sequence_23",
+        "strDescription&Sequence_23",
+        "str1099Earning&Sequence_23",
+        "strExemptPercentorAmount&Sequence_23"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_CheckUncheckNo",
+        "in_ReportID",
+        "in_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Click On Finish Later button & Check Data saved.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strValue1&Sequence_1",
+        "strValue2&Sequence_1",
+        "strActualValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "BinderYear",
+        "BinderID",
+        "strURL_Fileroom"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Open & Close Image viewer (TC-13,TC-14,TC-21).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strErrorDescription&Sequence_3",
+        "strStatus&Sequence_8",
+        "strErrorDescription&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Filter Testcases (TC-9,TC-10,TC-11).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strVar1&Sequence_14",
+        "strVar2&Sequence_14"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CheckBox Check-Unchek Using Generic Selector.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "Cnt&Sequence_1",
+        "strExemptPercent0rAmount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_CheckUncheckNo",
+        "strURL_Fileroom",
+        "BinderID",
+        "BinderYear"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

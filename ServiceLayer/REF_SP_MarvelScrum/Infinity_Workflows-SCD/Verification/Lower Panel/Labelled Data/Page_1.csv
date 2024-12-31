@@ -1,0 +1,12 @@
+Top Left Header Cell,FaxDWPCode,FaxFieldName,FaxRowNumber,Value,Operation,FaxFormID,FaxFormFieldID,PageID,ID
+Row 0,FAX.102.001,"Indicate: T = Taxpayer, S = Spouse, J = Joint",1,T,Modified,23924,664337,2525616,33880296
+Row 1,FAX.102.002,Name of Payer,1,MELLON INVESTOR SERVICES,Unaffected,23924,664338,2525616,33880298
+Row 2,FAX.102.003,Box 1a: Ordinary Dividends,1,276,Unaffected,23924,664339,2525616,33880299
+Row 3,FAX.102.004,Box 1b: Qualified Dividends,1,276,Unaffected,23924,664340,2525616,33880300
+Row 4,FAX.102.001,"Indicate: T = Taxpayer, S = Spouse, J = Joint",2,S,Modified,23924,664337,2525616,33880301
+Row 5,FAX.102.002,Name of Payer,2,THE Walt DISNEY COMPANY,Unaffected,23924,664338,2525616,33880303
+Row 6,FAX.102.003,Box 1a: Ordinary Dividends,2,598,Unaffected,23924,664339,2525616,33880304
+Row 7,FAX.102.004,Box 1b: Qualified Dividends,2,598,Unaffected,23924,664340,2525616,33880305
+Row 8,FAX.102.002,Name of Payer,3,EXXON,Unaffected,23924,664338,2525616,33880307
+Row 9,FAX.102.003,Box 1a: Ordinary Dividends,3,270,Unaffected,23924,664339,2525616,33880308
+Row 10,FAX.102.004,Box 1b: Qualified Dividends,3,270,Unaffected,23924,664340,2525616,33880309
